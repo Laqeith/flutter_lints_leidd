@@ -24,7 +24,6 @@ linter:
     - sort_unnamed_constructors_first
     - unawaited_futures
     - unnecessary_await_in_return
-    - unnecessary_lambdas
     - prefer_single_quotes
     - always_use_package_imports
     - unnecessary_parenthesis

@@ -2,7 +2,7 @@
 
 ## Getting started
 
-```code
+```shell
 dev_dependencies:
   flutter_lints_leidd:
     git:
@@ -10,10 +10,6 @@ dev_dependencies:
       ref: master
 ```
 
-## Usage
-
-If do not see latest extensions:
-
-```dart
+```shell
 flutter pub upgrade
 ```

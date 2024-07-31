@@ -1,3 +1,6 @@
-## 0.0.1
+# CHANGELOG
 
-* TODO: Describe initial release.
+## 0.0.2
+
+* Removed unnecessary_lambdas rule
+* Updated lints: ^3.0.0 > ^4.0.0
