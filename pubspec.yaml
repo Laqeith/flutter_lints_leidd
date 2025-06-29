@@ -1,11 +1,11 @@
 name: flutter_lints_leidd
 description: "Custom flutter lints."
-version: 0.0.3
+version: 0.0.4
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
 
 dependencies:
-  lints: ^4.0.0
-  riverpod_lint: ^2.6.2
-  custom_lint: ^0.7.0
+  lints: ^6.0.0
+  riverpod_lint: ^2.6.5
+  custom_lint: ^0.7.5
